@@ -1,0 +1,8 @@
+# 忽略news.css这个文件
+news.css
+
+# 忽略node_modules这个文件夹中的所有的文件
+/node_modules
+
+# 忽略www文件下的所有.pdf文件
+/www*.pdf
